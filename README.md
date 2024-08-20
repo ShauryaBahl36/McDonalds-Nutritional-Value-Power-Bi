@@ -35,3 +35,5 @@ Potential Extensions:
 Expanding the dataset to include more items or other meal categories (lunch, dinner, snacks).
 Adding more visualizations to compare items based on different criteria (e.g., highest protein content, lowest calories).
 Implementing additional features like scenario analysis (e.g., how modifying certain ingredients affects the overall nutrition).
+
+![Snapshot of McDonalds Nutritional Value Dashboard](https://github.com/user-attachments/assets/8e460232-5b46-47b1-b309-9a9d87b95396)
